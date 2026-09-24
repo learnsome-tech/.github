@@ -28,6 +28,7 @@ Every course has one repository. Each holds a `labs/<lessonId>/` folder per less
 | [Modern .NET Core, C# & Enterprise Microservices](https://learnsome.tech/courses/dotnet-course) | [dotnet-labs](https://github.com/learnsome-tech/dotnet-labs) | [PDF](https://learnsome.tech/handbooks/dotnet/book.pdf) |
 | [Modern Java: Virtual Threads & High-Throughput Services](https://learnsome.tech/courses/java-course) | [java-labs](https://github.com/learnsome-tech/java-labs) | [PDF](https://learnsome.tech/handbooks/java/book.pdf) |
 | [Automated Testing, TDD & Quality Engineering](https://learnsome.tech/courses/testing-course) | [testing-labs](https://github.com/learnsome-tech/testing-labs) | [PDF](https://learnsome.tech/handbooks/testing/book.pdf) |
+| [Algorithms & Data Structures for Working Engineers](https://learnsome.tech/courses/algorithms-course) | [algorithms-labs](https://github.com/learnsome-tech/algorithms-labs) | [PDF](https://learnsome.tech/handbooks/algorithms/book.pdf) |
 
 Questions: [support@iwantto.learnsome.tech](mailto:support@iwantto.learnsome.tech)
 
