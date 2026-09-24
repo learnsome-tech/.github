@@ -29,6 +29,7 @@ Every course has one repository. Each holds a `labs/<lessonId>/` folder per less
 | [Modern Java: Virtual Threads & High-Throughput Services](https://learnsome.tech/courses/java-course) | [java-labs](https://github.com/learnsome-tech/java-labs) | [PDF](https://learnsome.tech/handbooks/java/book.pdf) |
 | [Automated Testing, TDD & Quality Engineering](https://learnsome.tech/courses/testing-course) | [testing-labs](https://github.com/learnsome-tech/testing-labs) | [PDF](https://learnsome.tech/handbooks/testing/book.pdf) |
 | [Algorithms & Data Structures for Working Engineers](https://learnsome.tech/courses/algorithms-course) | [algorithms-labs](https://github.com/learnsome-tech/algorithms-labs) | [PDF](https://learnsome.tech/handbooks/algorithms/book.pdf) |
+| [Apache Kafka & Event Streaming](https://learnsome.tech/courses/kafka-course) | [kafka-labs](https://github.com/learnsome-tech/kafka-labs) | [PDF](https://learnsome.tech/handbooks/kafka/book.pdf) |
 
 Questions: [support@iwantto.learnsome.tech](mailto:support@iwantto.learnsome.tech)
 
