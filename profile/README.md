@@ -7,9 +7,15 @@
   </a>
 </p>
 
-Video courses for engineers, with hands-on labs you run in the browser.
+LearnSome.tech (Learn Some Tech) teaches engineering and certification courses online, to engineers and to people whose work involves technology but not programming.
 
-Every lab opens on the course page at learnsome.tech: the free lessons’ labs for everyone, the rest with Pro.
+Every course has short video lessons with full transcripts and a written handbook. You practise with tasks in the lesson page (choose, sort, match, fill in a table or write a short answer) and with labs that run your commands or code in the browser or a disposable sandbox, with nothing to install. Certification courses follow the exam’s published objectives, with graded exam practice that explains every answer and a certificate anyone can verify.
+
+The first module (or first lessons) of every course is free with an account; Pro opens everything. [learnsome.tech](https://learnsome.tech/?utm_source=github&utm_medium=social&utm_campaign=profile)
+
+The repositories here hold the labs of each course’s free lessons.
+
+**Links:** [Website](https://learnsome.tech/?utm_source=github&utm_medium=social&utm_campaign=profile) · [Free guides](https://learnsome.tech/guides?utm_source=github&utm_medium=social&utm_campaign=profile) · [Android app](https://play.google.com/store/apps/details?id=tech.learnsome.app) · [YouTube](https://www.youtube.com/@learnsome-tech) · [LinkedIn](https://www.linkedin.com/company/learnsome-tech) · [X](https://x.com/LearnSomeTechs) · [dev.to](https://dev.to/learnsome-tech) · [Medium](https://medium.com/learnsome) · [Instagram](https://www.instagram.com/learnsome.tech) · [Threads](https://www.threads.com/@learnsome.tech) · [TikTok](https://www.tiktok.com/@learnsometech)
 
 ### Backend
 
