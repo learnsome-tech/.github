@@ -17,6 +17,15 @@ The repositories here hold the labs of each course’s free lessons.
 
 **Links:** [Website](https://learnsome.tech/?utm_source=github&utm_medium=social&utm_campaign=profile) · [Free guides](https://learnsome.tech/guides?utm_source=github&utm_medium=social&utm_campaign=profile) · [Android app](https://play.google.com/store/apps/details?id=tech.learnsome.app) · [YouTube](https://www.youtube.com/@learnsome-tech) · [LinkedIn](https://www.linkedin.com/company/learnsome-tech) · [X](https://x.com/LearnSomeTechs) · [dev.to](https://dev.to/learnsome-tech) · [Medium](https://medium.com/learnsome) · [Instagram](https://www.instagram.com/learnsome.tech) · [Threads](https://www.threads.com/@learnsome.tech) · [TikTok](https://www.tiktok.com/@learnsometech)
 
+### Free in-browser tools
+
+- [Kubernetes Pod Security Check](https://learnsome.tech/tools/kubernetes-pod-security-check?utm_source=github&utm_medium=social&utm_campaign=profile): check your pod specs against CIS benchmarks and restricted Pod Security Standards.
+- [Prompt Injection & Evals Playground](https://learnsome.tech/tools/prompt-injection-playground?utm_source=github&utm_medium=social&utm_campaign=profile): test defenses and evals against real prompt injection attacks.
+- [SQLite Query & Index Analyzer](https://learnsome.tech/tools/sqlite-query-analyzer?utm_source=github&utm_medium=social&utm_campaign=profile): visualize EXPLAIN QUERY PLAN and benchmark index improvements in your browser.
+
+⭐ **Star our repositories** if you find them helpful, and follow [@learnsome-tech](https://github.com/learnsome-tech) for new engineering labs and courses!
+
+
 ### Backend
 
 - [Algorithms & Data Structures for Working Engineers](https://learnsome.tech/courses/algorithms-course)
